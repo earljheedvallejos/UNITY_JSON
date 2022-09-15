@@ -1,5 +1,4 @@
 
-{
   "student":[
       {
         "name": "ej",
@@ -8,4 +7,3 @@
         "isEnrolled": false
       }  
     ]
-}
