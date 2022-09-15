@@ -2,8 +2,20 @@
 {
   "student":[
       {
-        "name": "ej",
+        "name": "earl",
         "age": 24,
+        "email": "earl@email.com",
+        "isEnrolled": true
+      },
+      {
+        "name": "jheed",
+        "age": 25,
+        "email": "jheed@email.com",
+        "isEnrolled": true
+      },
+      {
+        "name": "ej",
+        "age": 27,
         "email": "ej@email.com",
         "isEnrolled": false
       }  
