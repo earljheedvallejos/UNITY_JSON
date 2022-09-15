@@ -1,7 +1,9 @@
 # UNITY_JSON
 
 {
+
   "student":[
+  
       {
         "name": "earl",
         "age": 24,
@@ -22,7 +24,9 @@
         "email": "ej@email.com",
         "isEnrolled": true
       }
+      
     ],
+    
     
     "teacher": "Jade"
 }
