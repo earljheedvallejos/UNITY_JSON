@@ -1,9 +1,0 @@
-
-  "student":[
-      {
-        "name": "ej",
-        "age": 27,
-        "email": "ej@email.com",
-        "isEnrolled": false
-      }  
-    ]
